@@ -28,7 +28,7 @@ and provides visual and audible alerts.
 - **Severe shortage**: Only high-priority load ON + buzzer alert (Red LED)
 
 ## Circuit Diagram
-![Circuit Diagram](Circuit_Diagram/circuit_dia.png)
+![Circuit Diagram](Arduino_Code/circuit_dia.png)
 
 ## Tools Used
 - TinkerCAD
